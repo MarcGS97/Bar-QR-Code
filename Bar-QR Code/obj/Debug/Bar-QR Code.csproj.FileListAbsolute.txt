@@ -1,0 +1,105 @@
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\Bar-QR Code.exe.config
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\Bar-QR Code.exe
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\Bar-QR Code.pdb
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.AssemblyReference.cache
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.SuggestedBindingRedirects.cache
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\obj\Debug\Bar_QR_Code.CodigoBarras.resources
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\obj\Debug\Bar_QR_Code.CodigoQR.resources
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\obj\Debug\Bar_QR_Code.Form1.resources
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\obj\Debug\Bar_QR_Code.Properties.Resources.resources
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.GenerateResource.cache
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.CoreCompileInputs.cache
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\obj\Debug\Bar-QR Code.exe
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\obj\Debug\Bar-QR Code.pdb
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\BarcodeStandard.dll
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\QRCoder.dll
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Buffers.dll
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Drawing.Common.dll
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Memory.dll
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Text.Json.dll
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.ValueTuple.dll
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Buffers.xml
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Memory.xml
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Text.Json.xml
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\bin\Debug\System.ValueTuple.xml
+C:\Users\DESARROLLO\source\repos\Bar-QR Code\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.CopyComplete
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\Bar-QR Code.exe.config
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\Bar-QR Code.exe
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\Bar-QR Code.pdb
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\BarcodeStandard.dll
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\QRCoder.dll
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Buffers.dll
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Drawing.Common.dll
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Memory.dll
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Numerics.Vectors.dll
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Text.Encodings.Web.dll
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Text.Json.dll
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.ValueTuple.dll
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Buffers.xml
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Memory.xml
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Numerics.Vectors.xml
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Text.Encodings.Web.xml
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Text.Json.xml
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\bin\Debug\System.ValueTuple.xml
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.AssemblyReference.cache
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.SuggestedBindingRedirects.cache
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\obj\Debug\Bar_QR_Code.CodigoBarras.resources
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\obj\Debug\Bar_QR_Code.CodigoQR.resources
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\obj\Debug\Bar_QR_Code.Form1.resources
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\obj\Debug\Bar_QR_Code.Properties.Resources.resources
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.GenerateResource.cache
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.CoreCompileInputs.cache
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.CopyComplete
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\obj\Debug\Bar-QR Code.exe
+F:\Archivos\SOAR\Bar-QR Code\CodeBC\Bar-QR Code\obj\Debug\Bar-QR Code.pdb
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\Bar-QR Code.exe.config
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\Bar-QR Code.exe
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\Bar-QR Code.pdb
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\BarcodeStandard.dll
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\QRCoder.dll
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Buffers.dll
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Drawing.Common.dll
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Memory.dll
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Numerics.Vectors.dll
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Text.Encodings.Web.dll
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Text.Json.dll
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.ValueTuple.dll
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Buffers.xml
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Memory.xml
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Numerics.Vectors.xml
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Text.Encodings.Web.xml
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Text.Json.xml
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\bin\Debug\System.ValueTuple.xml
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.AssemblyReference.cache
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.SuggestedBindingRedirects.cache
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\obj\Debug\Bar_QR_Code.CodigoBarras.resources
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\obj\Debug\Bar_QR_Code.CodigoQR.resources
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\obj\Debug\Bar_QR_Code.Form1.resources
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\obj\Debug\Bar_QR_Code.Properties.Resources.resources
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.GenerateResource.cache
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.CoreCompileInputs.cache
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\obj\Debug\Bar-QR Code.csproj.CopyComplete
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\obj\Debug\Bar-QR Code.exe
+F:\Archivos\M1\03 - Repos\Bar-QR Code\Code\Bar-QR Code\obj\Debug\Bar-QR Code.pdb
